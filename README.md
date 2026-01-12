@@ -24,3 +24,38 @@ CSS (inline styling via JavaScript)
 
 JavaScript (Vanilla JS)
 
+📜 How It Works
+
+The button is selected using querySelector.
+
+On every button click:
+
+A new div and h1 are created dynamically.
+
+A random motivational message is picked from an array.
+
+Random values are generated for:
+
+Position (top, left)
+
+Background color (rgb)
+
+Rotation angle
+
+The message is centered inside the box using Flexbox.
+
+The box is appended to the <main> element.
+
+🧠 Key JavaScript Concepts Used
+
+DOM Selection (querySelector)
+
+Event Handling (addEventListener)
+
+Dynamic Element Creation (createElement)
+
+Random Number Generation (Math.random)
+
+Inline Styling via JavaScript
+
+Flexbox for centering text
