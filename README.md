@@ -2,6 +2,8 @@
 
 A fun and interactive JavaScript project that displays random motivational messages inside colorful, rotated boxes on the screen every time a button is clicked.
 
+
+
 🚀 Features
 
 🎯 Displays random motivational quotes
@@ -16,6 +18,8 @@ A fun and interactive JavaScript project that displays random motivational messa
 
 🧠 Built using pure JavaScript (DOM manipulation)
 
+
+
 🛠️ Technologies Used
 
 HTML
@@ -23,6 +27,9 @@ HTML
 CSS (inline styling via JavaScript)
 
 JavaScript (Vanilla JS)
+
+
+
 
 📜 How It Works
 
@@ -68,6 +75,9 @@ Every click creates a new box, not replacing the old one
 
 No two boxes look exactly the same!
 
+
+
+
 ▶️ How to Run
 
 Clone or download the project
@@ -76,15 +86,8 @@ Open index.html in your browser
 
 Click the button and enjoy the motivation ✨
 
-💡 Future Improvements (Optional)
 
-Add animation or fade-in effects
 
-Limit the number of boxes on screen
-
-Add a clear/reset button
-
-Make it mobile-responsive
 
 ❤️ Made With
 
